@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/examen-apisvm/examen#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mysql2": "^3.9.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.24.6",

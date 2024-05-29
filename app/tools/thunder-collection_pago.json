@@ -1,0 +1,59 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "pago",
+    "collectionId": "133b5767-0f22-4de2-b0ab-c99df49e5c0d",
+    "dateExported": "2024-05-29T13:02:58.118Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b104602e-f96d-4e26-a210-8619f5143c26",
+            "colId": "133b5767-0f22-4de2-b0ab-c99df49e5c0d",
+            "containerId": "",
+            "name": "Mostrar",
+            "url": "localhost:3000/api/pago",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-23T14:32:09.552Z",
+            "modified": "2024-05-23T14:34:39.596Z",
+            "headers": []
+        },
+        {
+            "_id": "91663929-ed66-482c-969d-ab5c769a402c",
+            "colId": "133b5767-0f22-4de2-b0ab-c99df49e5c0d",
+            "containerId": "",
+            "name": "Crear",
+            "url": "localhost:3000/api/pago",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-05-23T14:32:22.703Z",
+            "modified": "2024-05-29T13:00:10.005Z",
+            "headers": []
+        },
+        {
+            "_id": "0a75768e-9466-42bf-aa91-d3738f17c7fb",
+            "colId": "133b5767-0f22-4de2-b0ab-c99df49e5c0d",
+            "containerId": "",
+            "name": "Modificar",
+            "url": "localhost:3000/api/pago",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2024-05-23T14:32:28.999Z",
+            "modified": "2024-05-29T13:00:10.005Z",
+            "headers": []
+        },
+        {
+            "_id": "f52b53ec-d524-414c-8b75-1d61ada710a1",
+            "colId": "133b5767-0f22-4de2-b0ab-c99df49e5c0d",
+            "containerId": "",
+            "name": "Eliminar",
+            "url": "localhost:3000/api/pago:1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2024-05-23T14:32:36.183Z",
+            "modified": "2024-05-29T13:00:10.005Z",
+            "headers": []
+        }
+    ],
+    "ref": "L_91PD_v13UfUUklZf2TgFAiFCr_znL_UT41nRrJSzbo7iyIaIfqveJcjn0Jp3Iv3dOfOxb1-yIE9oy6N51Sbg"
+}
